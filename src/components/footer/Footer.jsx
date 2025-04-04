@@ -23,7 +23,7 @@ p-10 md:p-12 items-center"
         <li className="flex gap-1 items-center">
           <CiLinkedin />
           <a
-            href="https://www.linkedin.com/in/jashwanth-071725310"
+            href="https://www.linkedin.com/in/jashwanth-jk-071725310/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -33,7 +33,7 @@ p-10 md:p-12 items-center"
         <li className="flex gap-1 items-center">
           <FaGithub />
           <a
-            href="https://github.com/Jashwanth-rit"
+            href="https://github.com/Jk-karunadu"
             target="_blank"
             rel="noopener noreferrer"
           >

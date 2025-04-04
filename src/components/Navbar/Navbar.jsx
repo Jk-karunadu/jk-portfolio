@@ -20,7 +20,7 @@ const Navbar = () => {
           <a href="https://www.linkedin.com/in/jashwanth-jk-071725310/" target="_blank" rel="noopener noreferrer">
             <FaLinkedin className='text-white hover:text-gray-400 duration-300' size={25} />
           </a>
-          <a href="https://github.com/Jashwanth-rit" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/Jk-karunadu" target="_blank" rel="noopener noreferrer">
             <FaGithub className='text-white hover:text-gray-400 duration-300' size={25} />
           </a>
           <a href="https://x.com/JkKarunadu01" target="_blank" rel="noopener noreferrer">
