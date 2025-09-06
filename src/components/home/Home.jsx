@@ -25,7 +25,7 @@ const Home = () => {
               </button>
             </a>
           
-            <a href={resume} download="Jk_resume.pdf">
+            <a href={resume} download="Jk_resume_final (1).pdf">
               <button className="mt-5 text-white py-2 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]">
                 Download Resume
               </button>
