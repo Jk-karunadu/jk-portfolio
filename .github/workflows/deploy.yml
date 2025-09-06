@@ -24,8 +24,6 @@ jobs:
           name: production-files
           path: ./dist
           retention-days: 1  # Optional: keep artifacts for 1 day to save storage
-
-
   deploy:
     name: Deploy
     needs: build
