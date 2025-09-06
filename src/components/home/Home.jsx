@@ -1,5 +1,5 @@
 import React from "react";
-import pic from "../../assets/profile1.png";
+import pic from "../../assets/profile-pic.png";
 import TextChanges from "../TextChanges/TextChanges";
 import resume from "../../assets/Jk_resume.pdf";
 
